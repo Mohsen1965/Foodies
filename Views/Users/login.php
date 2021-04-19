@@ -132,7 +132,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
       <button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Cancel</button>
 
       Forgot <a href="#">password?</a>
-    </center>
+</center>
     </div>
   </form>
 </div>

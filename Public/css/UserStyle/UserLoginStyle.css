@@ -9,6 +9,11 @@ input[type=text], input[type=password] {
   border: 1px solid #ccc;
   box-sizing: border-box;
 }
+hr{
+      height: 3px;
+      background-color: #00BFFF;
+      border: none;
+    }
 
 /* Set a style for all buttons */
 button {
